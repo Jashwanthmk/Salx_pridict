@@ -1,8 +1,5 @@
 # 💼 Salary Prediction System using Machine Learning
 
-<p align="center">
-  <img src="Salary%20Prediction%20System.jpg" alt="Salary Prediction System" width="700">
-</p>
 
 ## 📌 Overview
 
@@ -15,5 +12,5 @@ You can:
 
 ---
 
-## 📁 Project Structure
+
 
